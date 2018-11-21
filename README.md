@@ -14,3 +14,5 @@ alternative to `git-filter-branch` for cleansing bad data out of your Git reposi
 * Removing **Passwords, Credentials** & other **Private data**
 
 Main documentation for The BFG is here : **https://rtyley.github.io/bfg-repo-cleaner/**
+
+_note: this is basically the same tool stripped of partisan politics_
